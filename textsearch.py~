@@ -9,6 +9,13 @@ for line in searchfile:
         existing = line 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+        print existing
+>>>>>>> 0ca667e... New
+=======
+>>>>>>> 0f4ab58... Ok
 =======
         print existing
 >>>>>>> 0ca667e... New
@@ -25,6 +32,13 @@ for line in searchfile2:
         new = line 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+        print new
+>>>>>>> 0ca667e... New
+=======
+>>>>>>> 0f4ab58... Ok
 =======
         print new
 >>>>>>> 0ca667e... New
