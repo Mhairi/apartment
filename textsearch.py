@@ -21,6 +21,8 @@ for line in searchfile2:
 searchfile2.close()
 
 if existing == new:
+    print 0
     sys.exit(0)
 else:
-    sys.exit(1)
+    print 1
+    sys.exit(0)
