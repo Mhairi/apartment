@@ -24,6 +24,6 @@ fi
 else
 mv $FILE "$FILE.1"
 fi
-sleep 60
+sleep 30
 done
 
