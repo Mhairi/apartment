@@ -15,6 +15,9 @@ if [[ -e $FILE ]] ;then
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 02a994db13d4f162e25de47e80647180bdf20140
 PYTEST=$(python2 textsearch.py)
 VAR=$PYTEST
 if [[ $VAR -ne 0 ]]; then # -gt for greater than -lt for less then
@@ -28,8 +31,11 @@ date +"0,%T,%m-%d-%y" >> apartmentlog.csv
 =======
 =======
 >>>>>>> 4246485... First ei
+<<<<<<< HEAD
 =======
 >>>>>>> 4246485... First ei
+=======
+>>>>>>> 02a994db13d4f162e25de47e80647180bdf20140
 PERCENTAGE=$(python2 percentage.py)
 PYTEST=$(python2 pytest.py)
 VAR1=$PERCENTAGEy
@@ -37,6 +43,7 @@ VAR2=$PYTEST
 if [[ $VAR2 -ne 1 ]]; then # -gt for greater than -lt for less then
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 PYTEST=$(python2 textsearch.py)
 VAR=$PYTEST
@@ -56,6 +63,8 @@ date +"No change at %T %m-%d-%y"
 date +"0,%T,%m-%d-%y" >> apartmentlog.csv 
 >>>>>>> 0ca667e... New
 =======
+=======
+>>>>>>> 02a994db13d4f162e25de47e80647180bdf20140
 =======
 PYTEST=$(python2 textsearch.py)
 VAR=$PYTEST
@@ -98,6 +107,7 @@ fi
 else
 mv $FILE "$FILE.1"
 fi
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -111,6 +121,9 @@ sleep 30
 =======
 sleep 60
 >>>>>>> 0ca667e... New
+=======
+sleep 60
+>>>>>>> 02a994db13d4f162e25de47e80647180bdf20140
 =======
 sleep 30
 >>>>>>> 4246485... First ei

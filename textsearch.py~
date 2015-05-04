@@ -13,11 +13,14 @@ for line in searchfile:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
         print existing
 >>>>>>> 0ca667e... New
 =======
 >>>>>>> 0f4ab58... Ok
+=======
+>>>>>>> 02a994db13d4f162e25de47e80647180bdf20140
 =======
         print existing
 >>>>>>> 0ca667e... New
@@ -43,11 +46,14 @@ for line in searchfile2:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
         print new
 >>>>>>> 0ca667e... New
 =======
 >>>>>>> 0f4ab58... Ok
+=======
+>>>>>>> 02a994db13d4f162e25de47e80647180bdf20140
 =======
         print new
 >>>>>>> 0ca667e... New

@@ -27,6 +27,7 @@ if existing == new:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     print 0
     sys.exit(0)
 else:
@@ -38,12 +39,17 @@ else:
     sys.exit(1)
 >>>>>>> 0ca667e... New
 =======
+=======
+>>>>>>> 02a994db13d4f162e25de47e80647180bdf20140
     print 0
     sys.exit(0)
 else:
     print 1
     sys.exit(0)
+<<<<<<< HEAD
 >>>>>>> 0f4ab58... Ok
+=======
+>>>>>>> 02a994db13d4f162e25de47e80647180bdf20140
 =======
     sys.exit(0)
 else:
