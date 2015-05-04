@@ -21,8 +21,22 @@ for line in searchfile2:
 searchfile2.close()
 
 if existing == new:
+<<<<<<< HEAD
+<<<<<<< HEAD
     print 0
     sys.exit(0)
 else:
     print 1
     sys.exit(0)
+=======
+    sys.exit(0)
+else:
+    sys.exit(1)
+>>>>>>> 0ca667e... New
+=======
+    print 0
+    sys.exit(0)
+else:
+    print 1
+    sys.exit(0)
+>>>>>>> 0f4ab58... Ok

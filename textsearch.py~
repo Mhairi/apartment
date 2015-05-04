@@ -7,6 +7,13 @@ searchfile = open("apartment.html", "r")
 for line in searchfile:
     if " <p class=\"row\" data-pid=" in line and existing is None:
         existing = line 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+        print existing
+>>>>>>> 0ca667e... New
+=======
+>>>>>>> 0f4ab58... Ok
     else:
         pass
 searchfile.close()
@@ -16,6 +23,13 @@ searchfile2 = open("apartment.html.1", "r")
 for line in searchfile2:
     if " <p class=\"row\" data-pid=" in line and new is None:
         new = line 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+        print new
+>>>>>>> 0ca667e... New
+=======
+>>>>>>> 0f4ab58... Ok
     else:
         pass
 searchfile2.close()
