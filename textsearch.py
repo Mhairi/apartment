@@ -30,6 +30,9 @@ if existing == new:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 407e93476d272a9dc893bf668050548edc232c19
     print 0
     sys.exit(0)
 else:
@@ -42,7 +45,11 @@ else:
 >>>>>>> 0ca667e... New
 =======
 =======
+<<<<<<< HEAD
 >>>>>>> 9a82237... Rebased
+=======
+>>>>>>> 02a994db13d4f162e25de47e80647180bdf20140
+>>>>>>> 407e93476d272a9dc893bf668050548edc232c19
     print 0
     sys.exit(0)
 else:
@@ -51,6 +58,7 @@ else:
 <<<<<<< HEAD
 >>>>>>> 0f4ab58... Ok
 =======
+<<<<<<< HEAD
 >>>>>>> 9a82237... Rebased
 =======
     sys.exit(0)
@@ -64,6 +72,9 @@ else:
     print 1
     sys.exit(0)
 >>>>>>> 0f4ab58... Ok
+=======
+>>>>>>> 02a994db13d4f162e25de47e80647180bdf20140
+>>>>>>> 407e93476d272a9dc893bf668050548edc232c19
 =======
     sys.exit(0)
 else:

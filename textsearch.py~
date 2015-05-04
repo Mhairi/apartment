@@ -16,18 +16,25 @@ for line in searchfile:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 407e93476d272a9dc893bf668050548edc232c19
 =======
         print existing
 >>>>>>> 0ca667e... New
 =======
 >>>>>>> 0f4ab58... Ok
 =======
+<<<<<<< HEAD
 >>>>>>> 9a82237... Rebased
 =======
         print existing
 >>>>>>> 0ca667e... New
 =======
 >>>>>>> 0f4ab58... Ok
+=======
+>>>>>>> 02a994db13d4f162e25de47e80647180bdf20140
+>>>>>>> 407e93476d272a9dc893bf668050548edc232c19
 =======
         print existing
 >>>>>>> 0ca667e... New
@@ -56,18 +63,25 @@ for line in searchfile2:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 407e93476d272a9dc893bf668050548edc232c19
 =======
         print new
 >>>>>>> 0ca667e... New
 =======
 >>>>>>> 0f4ab58... Ok
 =======
+<<<<<<< HEAD
 >>>>>>> 9a82237... Rebased
 =======
         print new
 >>>>>>> 0ca667e... New
 =======
 >>>>>>> 0f4ab58... Ok
+=======
+>>>>>>> 02a994db13d4f162e25de47e80647180bdf20140
+>>>>>>> 407e93476d272a9dc893bf668050548edc232c19
 =======
         print new
 >>>>>>> 0ca667e... New
