@@ -1,3 +1,5 @@
+#This was an older way of matching the two files. It would literally see how many % of the two files matched.
+
 import sys
 from difflib import SequenceMatcher
 text1 = open("apartment.html").read()
